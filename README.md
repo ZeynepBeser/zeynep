@@ -1,4 +1,4 @@
-# ZeynepBeser-129-175/B
+# ZeynepBeşer-129-175/B
 2.hafta fizik ödevi
 ## Beden Kitle İndeksi
 | BKİ Değeri | Durumu |
