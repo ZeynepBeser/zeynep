@@ -11,4 +11,7 @@
 | 45-49,99 | Aşırı şişman |
 | >=50 | Ölümcül şişman |
 ---
-
+| Annem | Babam | Hamza Abim | Ömer Abim | Ben |
+|-----|-----|-----|-----|-----|
+| 25,39 | 26,29 | 23,88 | 20,45 | 17,30 |
+| Hafif şişman | Hafif şişman | Normal | Normal | Zayıf |
